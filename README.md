@@ -24,7 +24,8 @@ To analyze sales data and identify patterns, trends, and key factors affecting b
 - Seasonal trends impact sales performance  
 - Discounts can influence profit margins
 
-![Dashboard Preview](src="https://github.com/user-attachments/assets/eafa05f6-5fa4-433d-bee6-3d412026f9d5" )
+#Dashboard Preview
+<img width="1233" height="655" alt="Screenshot 2026-03-01 202025" src="https://github.com/user-attachments/assets/e6d1e1cd-76dd-4333-ad30-2d4848e23227" />
 
 # Conclusion
 The dashboard helps in understanding sales performance and supports data-driven decision-making for improving revenue and profitability.
